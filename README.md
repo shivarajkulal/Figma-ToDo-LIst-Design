@@ -20,9 +20,6 @@ Designing an intuitive interface that prioritizes user experience, ensuring seam
 
 ### 3.1 Splash Screen
 
-![Dashboard](Dashboard.png)
-
-
 - **Introduction and Get Started Button:**
   - Provides a brief overview of the to-do list application.
   - "Get Started" button for navigation to the Registration Page.
@@ -40,7 +37,7 @@ Designing an intuitive interface that prioritizes user experience, ensuring seam
   - "Login" button for user authentication.
 
 ### 3.4 User Dashboard
-
+![Dashboard](https://github.com/shivarajkulal/Figma-ToDo-LIst-Design/raw/main/Dashboard.png)
 - **User Photo and Present Time:**
   - Personalized dashboard with the user's photo.
   - Real-time display of the current time.
