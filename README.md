@@ -1,8 +1,3 @@
-# Figma-ToDo-LIst-Design
-Certainly! Here's a template for a README file based on the information you provided:
-
----
-
 # To-Do List Application UI Design
 
 ## 1. UI Design Tool Used
