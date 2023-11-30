@@ -20,7 +20,7 @@ Designing an intuitive interface that prioritizes user experience, ensuring seam
 
 ### 3.1 Splash Screen
 
-![Dashboard](https://github.com/shivarajkulal/Figma-ToDo-LIst-Design/blob/main/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 - **Introduction and Get Started Button:**
