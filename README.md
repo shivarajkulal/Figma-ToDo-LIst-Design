@@ -20,6 +20,9 @@ Designing an intuitive interface that prioritizes user experience, ensuring seam
 
 ### 3.1 Splash Screen
 
+![Sample Image](images/sample-image.jpg)
+
+
 - **Introduction and Get Started Button:**
   - Provides a brief overview of the to-do list application.
   - "Get Started" button for navigation to the Registration Page.
