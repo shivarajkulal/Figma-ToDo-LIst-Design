@@ -38,7 +38,7 @@ Designing an intuitive interface that prioritizes user experience, ensuring seam
 
 ### 3.4 User Dashboard
 ![Dashboard](https://github.com/shivarajkulal/Figma-ToDo-LIst-Design/raw/main/Dashboard.png)
-![Dashboard](Dashboard.png)
+
 
 - **User Photo and Present Time:**
   - Personalized dashboard with the user's photo.
