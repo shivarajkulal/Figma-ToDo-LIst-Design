@@ -29,19 +29,23 @@ Designing an intuitive interface that prioritizes user experience, ensuring seam
 
 ### 3.2 Registration Page
 
+![Registration](https://github.com/shivarajkulal/Figma-ToDo-LIst-Design/assets/117928514/6db9a418-818b-4cdf-be9e-a37a681bff33)
+
 - **User Input Fields:**
   - Input fields for name, email, and password to facilitate the registration process.
   - "Register" button to complete registration.
 
 ### 3.3 Login Page
 
+![Login](https://github.com/shivarajkulal/Figma-ToDo-LIst-Design/assets/117928514/6e8cf2d1-011b-4825-a657-381a75bd4b45)
+
 - **Login Credentials Input:**
   - User-friendly fields for email and password.
   - "Login" button for user authentication.
 
 ### 3.4 User Dashboard
-![Dashboard](https://github.com/shivarajkulal/Figma-ToDo-LIst-Design/raw/main/Dashboard.png)
 
+![Dashboard](https://github.com/shivarajkulal/Figma-ToDo-LIst-Design/assets/117928514/711fecb5-5f33-427f-bbe6-164bfc642ecc)
 
 - **User Photo and Present Time:**
   - Personalized dashboard with the user's photo.
