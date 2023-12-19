@@ -20,6 +20,9 @@ Designing an intuitive interface that prioritizes user experience, ensuring seam
 
 ### 3.1 Splash Screen
 
+![SlashScreen](https://github.com/shivarajkulal/Figma-ToDo-LIst-Design/assets/117928514/5c202a37-46b5-467c-8480-df9de8598c93)
+
+
 - **Introduction and Get Started Button:**
   - Provides a brief overview of the to-do list application.
   - "Get Started" button for navigation to the Registration Page.
